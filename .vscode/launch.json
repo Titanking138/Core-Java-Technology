@@ -1,0 +1,225 @@
+{
+  // Use IntelliSense to learn about possible attributes.
+  // Hover to view descriptions of existing attributes.
+  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Launch Thre",
+      "request": "launch",
+      "mainClass": "thread.Thre",
+      "projectName": "cjt_811dc5c4"
+    },
+    {
+      "type": "java",
+      "name": "Launch Runnabl",
+      "request": "launch",
+      "mainClass": "thread.Runnabl",
+      "projectName": "cjt_811dc5c4"
+    },
+    {
+      "type": "java",
+      "name": "Launch threading",
+      "request": "launch",
+      "mainClass": "threading",
+      "projectName": "cjt_811dc5c4"
+    },
+    {
+      "type": "java",
+      "name": "Launch Capital",
+      "request": "launch",
+      "mainClass": "Capital",
+      "projectName": "cjt_811dc5c4"
+    },
+    {
+      "type": "java",
+      "name": "Launch SumofDig",
+      "request": "launch",
+      "mainClass": "SumofDig",
+      "projectName": "cjt_811dc5c4"
+    },
+    {
+      "type": "java",
+      "name": "Launch ReverseNumbe",
+      "request": "launch",
+      "mainClass": "ReverseNumbe",
+      "projectName": "cjt_811dc5c4"
+    },
+    {
+      "type": "java",
+      "name": "Launch Pattern4",
+      "request": "launch",
+      "mainClass": "Pattern4",
+      "projectName": "cjt_811dc5c4"
+    },
+    {
+      "type": "java",
+      "name": "Launch Pattern3",
+      "request": "launch",
+      "mainClass": "Pattern3",
+      "projectName": "cjt_811dc5c4"
+    },
+    {
+      "type": "java",
+      "name": "Launch Pattern2",
+      "request": "launch",
+      "mainClass": "Pattern2",
+      "projectName": "cjt_811dc5c4"
+    },
+    {
+      "type": "java",
+      "name": "Launch Pattern1",
+      "request": "launch",
+      "mainClass": "Pattern1",
+      "projectName": "cjt_811dc5c4"
+    },
+    {
+      "type": "java",
+      "name": "Launch CommandCal",
+      "request": "launch",
+      "mainClass": "CommandCal",
+      "projectName": "cjt_811dc5c4"
+    },
+    {
+      "type": "java",
+      "name": "Launch Email",
+      "request": "launch",
+      "mainClass": "Email",
+      "projectName": "cjt_811dc5c4"
+    },
+    {
+      "type": "java",
+      "name": "Launch MultiOfMatrix",
+      "request": "launch",
+      "mainClass": "MultiOfMatrix",
+      "projectName": "cjt_811dc5c4"
+    },
+    {
+      "type": "java",
+      "name": "Launch MergeArr",
+      "request": "launch",
+      "mainClass": "MergeArr",
+      "projectName": "cjt_811dc5c4"
+    },
+    {
+      "type": "java",
+      "name": "Launch MultiTable",
+      "request": "launch",
+      "mainClass": "MultiTable",
+      "projectName": "cjt_811dc5c4"
+    },
+    {
+      "type": "java",
+      "name": "Launch DisplayMousePos",
+      "request": "launch",
+      "mainClass": "DisplayMousePos",
+      "projectName": "cjt_811dc5c4"
+    },
+    {
+      "type": "java",
+      "name": "Launch GenericMetrix",
+      "request": "launch",
+      "mainClass": "GenericMetrix",
+      "projectName": "cjt_811dc5c4"
+    },
+    {
+      "type": "java",
+      "name": "Launch Interface",
+      "request": "launch",
+      "mainClass": "Interface",
+      "projectName": "cjt_811dc5c4"
+    },
+    {
+      "type": "java",
+      "name": "Launch Interface",
+      "request": "launch",
+      "mainClass": "lab4.Interface",
+      "projectName": "cjt_811dc5c4"
+    },
+    {
+      "type": "java",
+      "name": "Launch Shape",
+      "request": "launch",
+      "mainClass": "lab4.Shape",
+      "projectName": "cjt_811dc5c4"
+    },
+    {
+      "type": "java",
+      "name": "Launch GenericMetrix",
+      "request": "launch",
+      "mainClass": "lab4.GenericMetrix",
+      "projectName": "cjt_811dc5c4"
+    },
+    {
+      "type": "java",
+      "name": "Launch Package",
+      "request": "launch",
+      "mainClass": "lab4.Package",
+      "projectName": "cjt_811dc5c4"
+    },
+    {
+      "type": "java",
+      "name": "Launch Permutation",
+      "request": "launch",
+      "mainClass": "lab2.Permutation",
+      "projectName": "cjt_811dc5c4"
+    },
+    {
+      "type": "java",
+      "name": "Launch Multi",
+      "request": "launch",
+      "mainClass": "lab2.Multi",
+      "projectName": "cjt_811dc5c4"
+    },
+    {
+      "type": "java",
+      "name": "Launch Fibonacci",
+      "request": "launch",
+      "mainClass": "lab2.Fibonacci",
+      "projectName": "cjt_811dc5c4"
+    },
+    {
+      "type": "java",
+      "name": "Launch Factorial",
+      "request": "launch",
+      "mainClass": "lab2.Factorial",
+      "projectName": "cjt_811dc5c4"
+    },
+    {
+      "type": "java",
+      "name": "Launch UserIntCal",
+      "request": "launch",
+      "mainClass": "lab2.UserIntCal",
+      "projectName": "cjt_811dc5c4"
+    },
+    {
+      "type": "java",
+      "name": "Launch CommandCal",
+      "request": "launch",
+      "mainClass": "lab2.CommandCal",
+      "projectName": "cjt_811dc5c4"
+    },
+    {
+      "type": "java",
+      "name": "Launch ReverseNumbe",
+      "request": "launch",
+      "mainClass": "lab1.ReverseNumbe",
+      "projectName": "cjt_811dc5c4"
+    },
+    {
+      "type": "java",
+      "name": "Launch SumofDig",
+      "request": "launch",
+      "mainClass": "lab1.SumofDig",
+      "projectName": "cjt_811dc5c4"
+    },
+    {
+      "type": "java",
+      "name": "Launch fibo",
+      "request": "launch",
+      "mainClass": "lab1.fibo",
+      "projectName": "cjt_811dc5c4"
+    }
+  ]
+}
